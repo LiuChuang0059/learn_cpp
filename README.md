@@ -6,3 +6,6 @@ c语言学习（c++ primer)
 ## 1. c++ 基本
 - [x] [1. 预处理器](https://www.zybuluo.com/zzzxxxyyy/note/1231193)
 - [ ] [2. 输入输出](https://www.zybuluo.com/zzzxxxyyy/note/1231444)-----[code]()
+
+## 2. c++ 数组类型
+- [] [1. 内置数组数据类型](https://www.zybuluo.com/zzzxxxyyy/note/1231553)
