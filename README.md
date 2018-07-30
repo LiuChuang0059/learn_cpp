@@ -5,5 +5,4 @@ c语言学习（c++ primer)
 
 ## 1. c++ 基本
 - [x] [1. 预处理器](https://www.zybuluo.com/zzzxxxyyy/note/1231193)
-- [x] [2. 输入输出](https://www.zybuluo.com/zzzxxxyyy/note/1231444)
-- [x] [2-1 输入输出code]()
+- [x] [2. 输入输出](https://www.zybuluo.com/zzzxxxyyy/note/1231444)-----[code]()
