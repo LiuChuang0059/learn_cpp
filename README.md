@@ -8,8 +8,6 @@ c语言学习（c++ primer)
 - [x] [2. 预处理器](https://www.zybuluo.com/zzzxxxyyy/note/1231193)
 - [x] [3. 输入输出](https://www.zybuluo.com/zzzxxxyyy/note/1231444)-----[code](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_1/io.cpp)
 - [ ] [4.循环 if while for]()-------[code](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_1/io_uncertain.cpp)
-
-## 2. c++ 数组类型
-- [x] [1. 内置数组数据类型](https://www.zybuluo.com/zzzxxxyyy/note/1231553)
-- [x] [2.类_c++特性](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_1/1.3%E7%B1%BB_c%2B%2B%E7%89%B9%E6%80%A7.md)
+- [x] [5. 内置数组数据类型](https://www.zybuluo.com/zzzxxxyyy/note/1231553)
+- [x] [6.类_c++特性](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_1/1.3%E7%B1%BB_c%2B%2B%E7%89%B9%E6%80%A7.md)
 ------[类io特性code](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_1/salesiterm_io.cpp)------[类加减特性code](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_1/salesiterm_add.cpp)--------[类function特性code](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_1/salesitem_func.cpp)
