@@ -19,3 +19,4 @@ c语言学习（c++ primer)
 ### 3.复合类型
 #### [1.复合类型-引用](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_2/2.3%E5%A4%8D%E5%90%88%E7%B1%BB%E5%9E%8B.md)
 #### [2.复合类型-指针](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_2/2.3%E5%A4%8D%E5%90%88%E7%B1%BB%E5%9E%8B-%E6%8C%87%E9%92%88.md)
+### [4.const 限定符](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_2/2.4const%E9%99%90%E5%AE%9A%E7%AC%A6.md)
