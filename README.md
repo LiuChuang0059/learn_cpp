@@ -16,6 +16,6 @@ c语言学习（c++ primer)
 
 ### [1.基本内置类型](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_2/2.1%E5%9F%BA%E6%9C%AC%E5%86%85%E7%BD%AE%E7%B1%BB%E5%9E%8B.md)
 ### [2.变量](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_2/2.2%E5%8F%98%E9%87%8F.md)
-### [3.复合类型]（）
-#### 1 [复合类型-引用](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_2/2.3%E5%A4%8D%E5%90%88%E7%B1%BB%E5%9E%8B.md)
-#### 2 [复合类型-指针](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_2/2.3%E5%A4%8D%E5%90%88%E7%B1%BB%E5%9E%8B-%E6%8C%87%E9%92%88.md)
+### [3.复合类型]()
+#### [1.复合类型-引用](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_2/2.3%E5%A4%8D%E5%90%88%E7%B1%BB%E5%9E%8B.md)
+#### [2.复合类型-指针](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_2/2.3%E5%A4%8D%E5%90%88%E7%B1%BB%E5%9E%8B-%E6%8C%87%E9%92%88.md)
