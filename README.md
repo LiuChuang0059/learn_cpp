@@ -21,13 +21,14 @@ c语言学习（c++ primer)
 ### [2-1.基本内置类型](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_2/2.1%E5%9F%BA%E6%9C%AC%E5%86%85%E7%BD%AE%E7%B1%BB%E5%9E%8B.md)
 ### [2-2.变量](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_2/2.2%E5%8F%98%E9%87%8F.md)
 ### 2-3.复合类型
-#### [*********2-3-1 复合类型-引用](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_2/2.3%E5%A4%8D%E5%90%88%E7%B1%BB%E5%9E%8B.md)
-#### [*********2-3-2 复合类型-指针](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_2/2.3%E5%A4%8D%E5%90%88%E7%B1%BB%E5%9E%8B-%E6%8C%87%E9%92%88.md)
+#### [2-3-1 复合类型-引用](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_2/2.3%E5%A4%8D%E5%90%88%E7%B1%BB%E5%9E%8B.md)
+#### [2-3-2 复合类型-指针](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_2/2.3%E5%A4%8D%E5%90%88%E7%B1%BB%E5%9E%8B-%E6%8C%87%E9%92%88.md)
+-------------
 ### [2-4.const 限定符](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_2/2.4const%E9%99%90%E5%AE%9A%E7%AC%A6.md)
 ### [2-5.处理类型](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_2/2.5%E5%A4%84%E7%90%86%E7%B1%BB%E5%9E%8B.md)
 ### 2-6.自定义数据结构
-#### [*********2-6-1 概览](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_2/2.6%E8%87%AA%E5%AE%9A%E4%B9%89%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
-#### [*********2-6-2 实例sales_data类 code](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_2/sales_data2.cpp)
+#### [2-6-1 概览](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_2/2.6%E8%87%AA%E5%AE%9A%E4%B9%89%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
+#### [2-6-2 实例sales_data类 code](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_2/sales_data2.cpp)
 
 -----------
 
@@ -35,6 +36,24 @@ c语言学习（c++ primer)
 
 ### [3-1 命名空间的using声明](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/3.1%E5%91%BD%E5%90%8D%E7%A9%BA%E9%97%B4%E7%9A%84using%E5%A3%B0%E6%98%8E.md)
 ### 3-2 标准类型库 string
-#### [*********3-2-1 string 初始化](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/3.2-1%E6%A0%87%E5%87%86%E5%BA%93%E7%B1%BB%E5%9E%8Bstring%E5%88%9D%E5%A7%8B%E5%8C%96.md)
-#### [*********3-2-2 sting 对象操作](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/3.2-2%E6%A0%87%E5%87%86%E5%BA%93%E7%B1%BB%E5%9E%8Bstring(string%E5%AF%B9%E8%B1%A1%E6%93%8D%E4%BD%9C).md)----code: [1输入输出 --](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/string_io2.cpp) [2.输入不确定字符--](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/string_io3_uncertain.cpp) [3. getline](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/string_getline.cpp)
-#### [*********3-2-3 string 字符串操作](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/3.2-3%E6%A0%87%E5%87%86%E5%BA%93%E7%B1%BB%E5%9E%8Bstring(stringstring%E5%AF%B9%E8%B1%A1%E5%AD%97%E7%AC%A6%E6%93%8D%E4%BD%9C).md)-----code: [1计数 --](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/string_for2.cpp)[2.改变大写(引用)--](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/string_for_change.cpp)[3.下标循环](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/string_subscript_iteration.cpp)
+#### [3-2-1 string 初始化](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/3.2-1%E6%A0%87%E5%87%86%E5%BA%93%E7%B1%BB%E5%9E%8Bstring%E5%88%9D%E5%A7%8B%E5%8C%96.md)
+#### [3-2-2 sting 对象操作](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/3.2-2%E6%A0%87%E5%87%86%E5%BA%93%E7%B1%BB%E5%9E%8Bstring(string%E5%AF%B9%E8%B1%A1%E6%93%8D%E4%BD%9C).md)----code: [1输入输出 --](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/string_io2.cpp) [2.输入不确定字符--](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/string_io3_uncertain.cpp) [3. getline](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/string_getline.cpp)
+#### [3-2-3 string 字符串操作](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/3.2-3%E6%A0%87%E5%87%86%E5%BA%93%E7%B1%BB%E5%9E%8Bstring(stringstring%E5%AF%B9%E8%B1%A1%E5%AD%97%E7%AC%A6%E6%93%8D%E4%BD%9C).md)-----code: [1计数 --](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/string_for2.cpp)[2.改变大写(引用)--](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/string_for_change.cpp)[3.下标循环](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/string_subscript_iteration.cpp)
+
+### 3-3 标准库类型 vector
+#### [3-3-1 vector定义和初始化](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/3.3-1%E6%A0%87%E5%87%86%E5%BA%93%E7%B1%BB%E5%9E%8Bvector%E5%88%9D%E5%A7%8B%E5%8C%96.md)
+#### [3-3-2 vector操作](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/3.3-2%E6%A0%87%E5%87%86%E5%BA%93%E7%B1%BB%E5%9E%8Bvector%E6%93%8D%E4%BD%9C.md)--------code:[1.push_back函数--](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/vector_test.cpp)[2. for 循环调用--](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/vector_test3.cpp)[3.下标调用--](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/vector_subscipt.cpp)
+
+#### 3-3-3 exercise
+##### [练习3.16---code](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/vector_exericse3-16.cpp)
+> 编写一段程序，把练习3.13中vector对象的容量和具体内容输出出来
+
+##### [练习3.17---code](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/vector_exercise3-17.cpp)
+> 从cin读入一组词并把它们存入一个vector对象，然后设法把所有词都改为大写形式。输出改变后的结果，每个词占一行。
+
+##### [练习3.20---code](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/vector_exercise3-20.cpp)
+> 读入一组整数并把他们存入一个vector对象，将每对相邻整数的和输出出来。改写你的程序，这次要求先输出第一个和最后一个元素的和，接着输入第二个和倒数第二个元素的和，以此类推。
+
+
+
+
