@@ -6,7 +6,7 @@ c语言学习（c++ primer)
 - [x] [1. c++ 概述](https://www.zybuluo.com/zzzxxxyyy/note/1230950)
 
 -----------
-## 1. c++ 基本
+## 1. [c++ 基本](https://github.com/LiuChuang0059/learn_cpp/tree/master/chapter_1)
 - [x] [1. 编译和运行](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_1/1.1%20%E7%BC%96%E8%AF%91%E8%BF%90%E8%A1%8C%E7%A8%8B%E5%BA%8F.md)-------[问题解决](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_1/1.1g++%E7%BC%96%E8%AF%91%E9%94%99%E8%AF%AF%E8%A7%A3%E5%86%B3.md)
 - [x] [2. 预处理器](https://www.zybuluo.com/zzzxxxyyy/note/1231193)
 - [x] [3. 输入输出](https://www.zybuluo.com/zzzxxxyyy/note/1231444)-----[code](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_1/io.cpp)
@@ -16,7 +16,7 @@ c语言学习（c++ primer)
 ------[类io特性code](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_1/salesiterm_io.cpp)------[类加减特性code](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_1/salesiterm_add.cpp)--------[类function特性code](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_1/salesitem_func.cpp)
 
 ------------
-## 2. 变量和基本类型
+## 2. [变量和基本类型](https://github.com/LiuChuang0059/learn_cpp/tree/master/chapter_2)
 
 ### [2-1.基本内置类型](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_2/2.1%E5%9F%BA%E6%9C%AC%E5%86%85%E7%BD%AE%E7%B1%BB%E5%9E%8B.md)
 ### [2-2.变量](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_2/2.2%E5%8F%98%E9%87%8F.md)
@@ -32,7 +32,7 @@ c语言学习（c++ primer)
 
 -----------
 
-## 3. 字符串，向量和数组
+## 3. [字符串，向量和数组](https://github.com/LiuChuang0059/learn_cpp/tree/master/chapter_3)
 
 ### [3-1 命名空间的using声明](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/3.1%E5%91%BD%E5%90%8D%E7%A9%BA%E9%97%B4%E7%9A%84using%E5%A3%B0%E6%98%8E.md)
 ### 3-2 标准类型库 string
@@ -43,17 +43,6 @@ c语言学习（c++ primer)
 ### 3-3 标准库类型 vector
 #### [3-3-1 vector定义和初始化](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/3.3-1%E6%A0%87%E5%87%86%E5%BA%93%E7%B1%BB%E5%9E%8Bvector%E5%88%9D%E5%A7%8B%E5%8C%96.md)
 #### [3-3-2 vector操作](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/3.3-2%E6%A0%87%E5%87%86%E5%BA%93%E7%B1%BB%E5%9E%8Bvector%E6%93%8D%E4%BD%9C.md)--------code:[1.push_back函数--](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/vector_test.cpp)[2. for 循环调用--](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/vector_test3.cpp)[3.下标调用--](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/vector_subscipt.cpp)
+#### [3-3-3 vector 习题](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/3.3-3%E6%A0%87%E5%87%86%E5%BA%93%E7%B1%BB%E5%9E%8Bvector%E4%B9%A0%E9%A2%98.md)
 
-#### 3-3-3 exercise
-##### [练习3.16---code](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/vector_exericse3-16.cpp)
-> 编写一段程序，把练习3.13中vector对象的容量和具体内容输出出来
-
-##### [练习3.17---code](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/vector_exercise3-17.cpp)
-> 从cin读入一组词并把它们存入一个vector对象，然后设法把所有词都改为大写形式。输出改变后的结果，每个词占一行。
-
-##### [练习3.20---code](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/vector_exercise3-20.cpp)
-> 读入一组整数并把他们存入一个vector对象，将每对相邻整数的和输出出来。改写你的程序，这次要求先输出第一个和最后一个元素的和，接着输入第二个和倒数第二个元素的和，以此类推。
-
-
-
-
+### 3-4 迭代器 Iteractor
