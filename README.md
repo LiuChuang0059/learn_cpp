@@ -46,3 +46,6 @@ c语言学习（c++ primer)
 #### [3-3-3 vector 习题](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/3.3-3%E6%A0%87%E5%87%86%E5%BA%93%E7%B1%BB%E5%9E%8Bvector%E4%B9%A0%E9%A2%98.md)
 
 ### 3-4 迭代器 Iteractor
+#### [3-4-1 迭代器的定义和使用](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/3.4Iterator/3.4-1%E8%BF%AD%E4%BB%A3%E5%99%A8%E7%9A%84%E4%BD%BF%E7%94%A8.md)
+#### [3-4-2 迭代器的运算](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/3.4Iterator/3.4-2%E8%BF%AD%E4%BB%A3%E5%99%A8%E7%9A%84%E8%BF%90%E7%AE%97.md)-----------[应用-----二分搜索code](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/3.4Iterator/iterator_binary_search.cpp)
+#### [3-4-3 迭代器习题](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/3.4Iterator/3.4-3%E8%BF%AD%E4%BB%A3%E5%99%A8%E7%9A%84%E4%B9%A0%E9%A2%98.md)
