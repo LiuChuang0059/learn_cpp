@@ -49,3 +49,39 @@ c语言学习（c++ primer)
 #### [3-4-1 迭代器的定义和使用](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/3.4Iterator/3.4-1%E8%BF%AD%E4%BB%A3%E5%99%A8%E7%9A%84%E4%BD%BF%E7%94%A8.md)
 #### [3-4-2 迭代器的运算](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/3.4Iterator/3.4-2%E8%BF%AD%E4%BB%A3%E5%99%A8%E7%9A%84%E8%BF%90%E7%AE%97.md)-----------[应用-----二分搜索code](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/3.4Iterator/iterator_binary_search.cpp)
 #### [3-4-3 迭代器习题](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/3.4Iterator/3.4-3%E8%BF%AD%E4%BB%A3%E5%99%A8%E7%9A%84%E4%B9%A0%E9%A2%98.md)
+
+
+### 3-5 数组 Array
+
+#### [3-5-1 定义和初始化数组](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/3.5Array/3.5-1%E5%AE%9A%E4%B9%89%E5%92%8C%E5%88%9D%E5%A7%8B%E5%8C%96%E6%95%B0%E7%BB%84.md)
+
+#### [3-5-2 访问数组元素 ](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/3.5Array/3.5-2%E8%AE%BF%E9%97%AE%E6%95%B0%E7%BB%84%E5%85%83%E7%B4%A0.md)
+
+
+#### [3-5-3 指针和数组](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/3.5Array/3.5-3%E6%8C%87%E9%92%88%E5%92%8C%E6%95%B0%E7%BB%84.md)
+
+
+#### [3-5-4 c风格字符串](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/3.5Array/3.5-4c%E9%A3%8E%E6%A0%BC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+
+#### [3-5-5 数组习题]()
+
+
+
+
+### 3-6 多维数组
+#### [3-6-1 定义和初始化](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/3.6multidimension_array/3.6-1%E5%AE%9A%E4%B9%89%E5%92%8C%E5%88%9D%E5%A7%8B%E5%8C%96.md)
+#### [3-6-2 访问多维数组](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/3.6multidimension_array/3.6-2%E5%A4%9A%E7%BB%B4%E6%95%B0%E7%BB%84%E7%9A%84%E4%BD%BF%E7%94%A8.md)
+#### [3-6-3 多维数组习题]()
+
+
+
+
+
+
+
+
+
+
+
+
+
