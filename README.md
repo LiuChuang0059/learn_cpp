@@ -134,7 +134,7 @@
 -----------
 
 
-## 6 [函数]（）
+## 6 [函数]（https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_6/README.md）
 
 ### 6-1 函数基础
 
@@ -142,7 +142,7 @@
 #### [6-1-2 局部对象](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_6/6.1foundation/6.1.2%E5%B1%80%E9%83%A8%E5%AF%B9%E8%B1%A1.md)
 #### [6-1-3 函数声明](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_6/6.1foundation/6.1.3%E5%87%BD%E6%95%B0%E5%A3%B0%E6%98%8E.md)
 #### [6-1-4 分离式编译](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_6/6.1foundation/6.1.4%E5%88%86%E7%A6%BB%E5%BC%8F%E7%BC%96%E8%AF%91.md)
-#### [6-1 习题]()
+#### [6-1 习题](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_6/6.1foundation/6-1%20%E4%B9%A0%E9%A2%98.md)
 
 
 
@@ -153,7 +153,7 @@
 #### [6-2-3const形参和实参](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_6/6.2ParameterPassing/6.2.3const%E5%BD%A2%E5%8F%82%E5%92%8C%E5%AE%9E%E5%8F%82.md)
 #### [6-2-4数组形参](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_6/6.2ParameterPassing/6.2.4%E6%95%B0%E7%BB%84%E5%BD%A2%E5%8F%82.md)
 #### [6-2-6含有可变形参的函数](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_6/6.2ParameterPassing/6.2.6%E5%90%AB%E6%9C%89%E5%8F%AF%E5%8F%98%E5%BD%A2%E5%8F%82%E7%9A%84%E5%87%BD%E6%95%B0.md)
-#### [6-2 习题]()
+#### [6-2 习题](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_6/6.2ParameterPassing/6-2%E4%B9%A0%E9%A2%98.md)
 
 
 ### 6-3 返回表达式
@@ -177,7 +177,7 @@
 #### [6-5-2内联函数](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_6/6.5Language-Characteristics/6-5-2%E5%86%85%E8%81%94%E5%87%BD%E6%95%B0.md)
 #### [6-5-3Constexpr函数](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_6/6.5Language-Characteristics/6-5-3Constexpr%E5%87%BD%E6%95%B0.md)
 #### [6-5-4调试代码](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_6/6.5Language-Characteristics/6-5-3%E8%B0%83%E8%AF%95%E4%BB%A3%E7%A0%81.md)
-#### [6-5 习题]()
+#### [6-5 习题](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_6/6.5Language-Characteristics/func-exercise6-47.cpp)
 
 
 
