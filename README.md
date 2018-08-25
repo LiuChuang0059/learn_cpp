@@ -128,6 +128,13 @@ c语言学习（c++ primer)
 ### [语句习题](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_5/5.%E8%AF%AD%E5%8F%A5%E7%BB%83%E4%B9%A0%E9%A2%98.md)
 
 
+------------
+-----------
+
+
+## 6 函数
+
+### 6-1 函数
 
 
 
