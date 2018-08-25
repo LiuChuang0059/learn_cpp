@@ -1,5 +1,7 @@
 # learn_C
-c语言学习（c++ primer)
+> c语言学习《c++ primer第五版》
+
+> 参考 https://github.com/huangmingchuan/Cpp_Primer_Answers/blob/master/README.md
 
 ---------
 ## 0. c++ 概述
