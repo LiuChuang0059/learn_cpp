@@ -1,14 +1,18 @@
-# learn_C
+# Learn_C
 > c语言学习《c++ primer第五版》
 
 > 参考 https://github.com/huangmingchuan/Cpp_Primer_Answers/blob/master/README.md
 
 ---------
-## 0. c++ 概述
+## Chapter_0. c++ 概述
 - [x] [1. c++ 概述](https://www.zybuluo.com/zzzxxxyyy/note/1230950)
 
+
+--------
 -----------
-## 1. [c++ 基本](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_1/README.md)
+
+
+## Chapter_1. [c++ 基本](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_1/README.md)
 - [x] [1. 编译和运行](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_1/1.1%20%E7%BC%96%E8%AF%91%E8%BF%90%E8%A1%8C%E7%A8%8B%E5%BA%8F.md)-------[问题解决](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_1/1.1g++%E7%BC%96%E8%AF%91%E9%94%99%E8%AF%AF%E8%A7%A3%E5%86%B3.md)
 - [x] [2. 预处理器](https://www.zybuluo.com/zzzxxxyyy/note/1231193)
 - [x] [3. 输入输出](https://www.zybuluo.com/zzzxxxyyy/note/1231444)-----[code](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_1/io.cpp)
@@ -17,8 +21,13 @@
 - [x] [6.类_c++特性](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_1/1.3%E7%B1%BB_c%2B%2B%E7%89%B9%E6%80%A7.md)
 ------[类io特性code](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_1/salesiterm_io.cpp)------[类加减特性code](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_1/salesiterm_add.cpp)--------[类function特性code](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_1/salesitem_func.cpp)
 
+
 ------------
-## 2. [变量和基本类型](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_2/README.md)
+----------
+
+
+
+## Chapter_2. [变量和基本类型](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_2/README.md)
 
 ### [2-1.基本内置类型](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_2/2.1%E5%9F%BA%E6%9C%AC%E5%86%85%E7%BD%AE%E7%B1%BB%E5%9E%8B.md)
 ### [2-2.变量](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_2/2.2%E5%8F%98%E9%87%8F.md)
@@ -33,8 +42,9 @@
 #### [2-6-2 实例sales_data类 code](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_2/sales_data2.cpp)
 
 -----------
+-----------
 
-## 3. [字符串，向量和数组](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/README.md)
+## Chapter_3. [字符串，向量和数组](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/README.md)
 
 ### [3-1 命名空间的using声明](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_3/3.1%E5%91%BD%E5%90%8D%E7%A9%BA%E9%97%B4%E7%9A%84using%E5%A3%B0%E6%98%8E.md)
 ### 3-2 标准类型库 string
@@ -77,7 +87,7 @@
 ------------------------
 
 
-## 4. [表达式 ： 运算符](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_4/README.md)
+## Chapter_4. [表达式 ： 运算符](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_4/README.md)
 
 ### [4.1表达式基础](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_4/4.1%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%9F%BA%E7%A1%80.md)
 
@@ -115,7 +125,7 @@
 ---------------------
 
 
-## 5 [语句](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_5/README.md)
+## Chapter_5 [语句](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_5/README.md)
 
 ### [5.1简单介绍语句](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_5/5.1%E7%AE%80%E5%8D%95%E4%BB%8B%E7%BB%8D%E8%AF%AD%E5%8F%A5.md)
 ### [5.2条件语句](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_5/5.2%E6%9D%A1%E4%BB%B6%E8%AF%AD%E5%8F%A5.md)
@@ -134,7 +144,7 @@
 -----------
 
 
-## 6 [函数]（https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_6/README.md）
+## Chapter_6 [函数]（https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_6/README.md）
 
 ### 6-1 函数基础
 
@@ -180,10 +190,22 @@
 #### [6-5 习题](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_6/6.5Language-Characteristics/func-exercise6-47.cpp)
 
 
+### 6-6  函数匹配
+
+#### [6-6-1函数匹配](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_6/6.6func-Match/6-6-1%E5%87%BD%E6%95%B0%E5%8C%B9%E9%85%8D.md)
+
+#### [6-6-2实参类型转换](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_6/6.6func-Match/6-6-2%E5%AE%9E%E5%8F%82%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2.md)
+
+
+#### [6-6 习题](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_6/6.6func-Match/README.md)
 
 
 
+### 6-7 函数指针
 
+#### [6-7-1 函数指针](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_6/6.7func-pointer/%E5%87%BD%E6%95%B0%E6%8C%87%E9%92%88.md)
+
+#### [习题 6-57](https://github.com/LiuChuang0059/learn_cpp/blob/master/chapter_6/6.7func-pointer/func-exercise6-57.cpp)
 
 
 
